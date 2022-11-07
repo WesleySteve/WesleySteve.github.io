@@ -11462,6 +11462,17 @@ html {
     font-size: 1.5rem;
   }
 }
+
+
+.dadosCurriculo div {
+  margin-bottom: 3px;
+}
+
+.dadosCurriculoNegrito {
+  margin-top: 30px;
+  font-weight: bold;
+}
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
