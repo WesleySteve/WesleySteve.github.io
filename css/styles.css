@@ -11463,15 +11463,27 @@ html {
   }
 }
 
+.negrito {
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+
+#conpetencias, #conhecimentos, #nocoes, #linguagens {
+  margin-bottom: 30px;
+}
 
 .dadosCurriculo div {
   margin-bottom: 3px;
 }
 
-.dadosCurriculoNegrito {
+.dadosCurriculoObjetivosProfissionais {
   margin-top: 30px;
-  font-weight: bold;
 }
+
+div {
+  margin-bottom: 0.5px;
+}
+
 
 .portfolio .portfolio-item {
   cursor: pointer;
